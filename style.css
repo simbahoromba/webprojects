@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Playfair+Display:wght@500&family=Roboto+Slab:wght@900&display=swap');
+/*FONTS---: for paragraph use playfair Display
+for headings use roboto and links use oswald--
 
+COLLORS: white-links: fdfdff; main-color: 202020; other-color: 8d99ae;
 
- 
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
